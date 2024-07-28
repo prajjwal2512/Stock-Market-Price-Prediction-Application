@@ -1,7 +1,5 @@
 import numpy as np
 import pandas as pd
-
-import yfinance as yf
 from keras.models import load_model 
 import matplotlib.dates as mdates
 import streamlit as st 
